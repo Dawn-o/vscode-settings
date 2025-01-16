@@ -1,3 +1,7 @@
+.windows {
+  font-family: "JetBrains Mono", Consolas, "Courier New", monospace !important;
+}
+
 /* Code comment style */
 /* .mtk3 {
     color: #008c7d !important;

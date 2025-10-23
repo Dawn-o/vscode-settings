@@ -148,7 +148,9 @@
     "**/composer.lock": true,
     "**/package-lock.json": true,
     "storage": true,
-    ".phpunit.result.cache": true
+    ".phpunit.result.cache": true,
+    ".next": true,
+    "bun.lock": true
   },
 
   //   Terminal

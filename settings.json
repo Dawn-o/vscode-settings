@@ -39,7 +39,7 @@
   "editor.fontSize": 16,
   "editor.fontWeight": "400",
   "editor.lineHeight": 32,
-  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'calt', 'dlig'",
+  "editor.fontLigatures": true,
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 250,
   "editor.lineNumbers": "off",
@@ -150,7 +150,7 @@
     "storage": true,
     ".phpunit.result.cache": true,
     ".next": true,
-    "bun.lock": true
+    "/bun.lock": true
   },
 
   //   Terminal
